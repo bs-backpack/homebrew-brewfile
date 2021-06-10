@@ -1,3 +1,5 @@
+tap 'homebrew/cask-fonts'
+
 brew 'direnv'
 
 cask '1password'
@@ -11,6 +13,7 @@ cask 'docker'
 cask 'dropbox'
 cask 'firefox'
 cask 'flux'
+cask 'font-inconsolata-g'
 cask 'google-backup-and-sync'
 cask 'google-chrome'
 cask 'iterm2'
