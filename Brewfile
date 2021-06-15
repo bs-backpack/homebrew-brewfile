@@ -1,6 +1,8 @@
 tap 'homebrew/cask-fonts'
 
 brew 'direnv'
+brew 'libpq' # for psql
+brew 'rbenv'
 
 cask '1password'
 cask 'adobe-creative-cloud'
@@ -16,7 +18,9 @@ cask 'flux'
 cask 'font-inconsolata-g'
 cask 'google-backup-and-sync'
 cask 'google-chrome'
+cask 'google-cloud-sdk'
 cask 'iterm2'
+cask 'keybase'
 cask 'microsoft-office'
 cask 'omnidisksweeper'
 cask 'paw'
